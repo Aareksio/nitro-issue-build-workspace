@@ -1,0 +1,11 @@
+{
+  "name": "empty-layer",
+  "version": "1.0.0",
+  "main": "./nuxt.config.ts",
+  "scripts": {
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.6.3"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "my-product",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt dev",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "empty-layer": "workspace:^",
+    "nuxt": "^3.6.3"
+  }
+}
